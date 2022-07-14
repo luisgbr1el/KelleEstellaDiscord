@@ -65,3 +65,4 @@ npm install
 ```
 
 ### 3. Adicione o seu token
+Você precisa criar um token para o seu bot no site do Discord Developers.
